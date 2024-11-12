@@ -1,0 +1,44 @@
+C:\Users\javie\Downloads\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\bin\Debug\net8.0\NumerosPrimos_Negocio.deps.json
+C:\Users\javie\Downloads\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\bin\Debug\net8.0\NumerosPrimos_Negocio.dll
+C:\Users\javie\Downloads\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\bin\Debug\net8.0\NumerosPrimos_Negocio.pdb
+C:\Users\javie\Downloads\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\Downloads\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.AssemblyInfoInputs.cache
+C:\Users\javie\Downloads\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.AssemblyInfo.cs
+C:\Users\javie\Downloads\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\javie\Downloads\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.dll
+C:\Users\javie\Downloads\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\obj\Debug\net8.0\refint\NumerosPrimos_Negocio.dll
+C:\Users\javie\Downloads\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.pdb
+C:\Users\javie\Downloads\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\obj\Debug\net8.0\ref\NumerosPrimos_Negocio.dll
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\bin\Debug\net8.0\NumerosPrimos_Negocio.deps.json
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\bin\Debug\net8.0\NumerosPrimos_Negocio.dll
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\bin\Debug\net8.0\NumerosPrimos_Negocio.pdb
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.AssemblyInfoInputs.cache
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.AssemblyInfo.cs
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.dll
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\obj\Debug\net8.0\refint\NumerosPrimos_Negocio.dll
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.pdb
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos_Presentacion\NumerosPrimos_Soporte\obj\Debug\net8.0\ref\NumerosPrimos_Negocio.dll
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos\NumerosPrimos_Soporte\bin\Debug\net8.0\NumerosPrimos_Negocio.deps.json
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos\NumerosPrimos_Soporte\bin\Debug\net8.0\NumerosPrimos_Negocio.dll
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos\NumerosPrimos_Soporte\bin\Debug\net8.0\NumerosPrimos_Negocio.pdb
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.AssemblyInfoInputs.cache
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.AssemblyInfo.cs
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.dll
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos\NumerosPrimos_Soporte\obj\Debug\net8.0\refint\NumerosPrimos_Negocio.dll
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.pdb
+C:\Users\javie\OneDrive\Escritorio\GH\NumerosPrimos\NumerosPrimos\NumerosPrimos_Soporte\obj\Debug\net8.0\ref\NumerosPrimos_Negocio.dll
+C:\Users\javie\OneDrive\Escritorio\Taller de Programacion\Calculadora\NumerosPrimos (1)\NumerosPrimos\NumerosPrimos_Soporte\bin\Debug\net8.0\NumerosPrimos_Negocio.deps.json
+C:\Users\javie\OneDrive\Escritorio\Taller de Programacion\Calculadora\NumerosPrimos (1)\NumerosPrimos\NumerosPrimos_Soporte\bin\Debug\net8.0\NumerosPrimos_Negocio.dll
+C:\Users\javie\OneDrive\Escritorio\Taller de Programacion\Calculadora\NumerosPrimos (1)\NumerosPrimos\NumerosPrimos_Soporte\bin\Debug\net8.0\NumerosPrimos_Negocio.pdb
+C:\Users\javie\OneDrive\Escritorio\Taller de Programacion\Calculadora\NumerosPrimos (1)\NumerosPrimos\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javie\OneDrive\Escritorio\Taller de Programacion\Calculadora\NumerosPrimos (1)\NumerosPrimos\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.AssemblyInfoInputs.cache
+C:\Users\javie\OneDrive\Escritorio\Taller de Programacion\Calculadora\NumerosPrimos (1)\NumerosPrimos\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.AssemblyInfo.cs
+C:\Users\javie\OneDrive\Escritorio\Taller de Programacion\Calculadora\NumerosPrimos (1)\NumerosPrimos\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.csproj.CoreCompileInputs.cache
+C:\Users\javie\OneDrive\Escritorio\Taller de Programacion\Calculadora\NumerosPrimos (1)\NumerosPrimos\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.dll
+C:\Users\javie\OneDrive\Escritorio\Taller de Programacion\Calculadora\NumerosPrimos (1)\NumerosPrimos\NumerosPrimos_Soporte\obj\Debug\net8.0\refint\NumerosPrimos_Negocio.dll
+C:\Users\javie\OneDrive\Escritorio\Taller de Programacion\Calculadora\NumerosPrimos (1)\NumerosPrimos\NumerosPrimos_Soporte\obj\Debug\net8.0\NumerosPrimos_Negocio.pdb
+C:\Users\javie\OneDrive\Escritorio\Taller de Programacion\Calculadora\NumerosPrimos (1)\NumerosPrimos\NumerosPrimos_Soporte\obj\Debug\net8.0\ref\NumerosPrimos_Negocio.dll
